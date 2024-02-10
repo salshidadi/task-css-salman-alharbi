@@ -1,0 +1,39 @@
+/* Exercise 1: Change background color of the body */
+
+body{
+   background-color: #f0f0f0; 
+}
+
+/* Exercise 2: Style h1 elements */
+
+h1{
+    color: #000080;  
+    font-size: 24px;
+  }
+
+/* Exercise 3: Background colors for each section */
+
+#about{
+    background-color: brown;
+}
+
+#projects{
+    background-color: aqua;
+}
+
+#contact{
+    background-color: blueviolet;
+}
+/* Exercise 4: Style elements with the 'project' class */
+
+.project{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+/* Exercise 5: Change color of links on hover (Bonus Exercise) */
+
+a:hover{
+    color: green;    
+}
+
